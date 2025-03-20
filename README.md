@@ -9,3 +9,15 @@ This is a **GUI-based Notepad application** with:
 ## 🚀 Technologies Used  
 - **Java**  
 - **Swing/AWT** for GUI development  
+
+## 🛠️ Output Screenshots  
+
+### 📜 **Text Editing Interface**
+![Text Editing](text.png)  
+
+### 🎨 **Drawing Feature**
+![Drawing Feature](drawing.png)  
+
+### 🖥️ **Main Notepad Interface**
+![Main Interface](interface.png)  
+
