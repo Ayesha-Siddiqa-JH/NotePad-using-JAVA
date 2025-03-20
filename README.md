@@ -13,11 +13,11 @@ This is a **GUI-based Notepad application** with:
 ## 🛠️ Output Screenshots  
 
 ### 📜 **Text Editing Interface**
-![Text Editing](text.png)  
+![Text Editing](interface.png)  
 
 ### 🎨 **Drawing Feature**
-![Drawing Feature](drawing.png)  
+![Drawing Feature](text.png)  
 
 ### 🖥️ **Main Notepad Interface**
-![Main Interface](interface.png)  
+![Main Interface](drawing.png)  
 
